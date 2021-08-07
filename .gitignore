@@ -1,0 +1,2 @@
+# 忽略.spec文件夹，其中包含pyinstaller打包所需的配置
+*/.spec/
